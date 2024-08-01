@@ -7,7 +7,7 @@
     android:orientation="vertical"
     tools:context=".Account">
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/ivIcon"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginTop="20dp"
